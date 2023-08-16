@@ -1,4 +1,3 @@
-# Lab05, CS9, Nick Lee-Roller
 class BookCollectionNode:
     def __init__(self, data):
         self.data = data
