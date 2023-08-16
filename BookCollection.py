@@ -1,4 +1,3 @@
-# Lab05, CS9, Nick Lee-Roller
 from BookCollectionNode import BookCollectionNode
 from Book import Book
 
