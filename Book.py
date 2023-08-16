@@ -1,4 +1,3 @@
-# Lab05, CS9, Nick Lee-Roller
 class Book:
     def __init__(self, title = "", author = "", year=None):
         self.title = title
